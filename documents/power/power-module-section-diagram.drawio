@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T14:02:56.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="onk-dkC18T6dgWUWYUlB" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T10:53:41.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Tzh5zZsXOtup3cXlEjS7" version="24.2.3" type="github">
   <diagram name="Page-1" id="sEi6zrj-x4Gcng2DzlMM">
     <mxGraphModel dx="819" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,13 +60,13 @@
         <mxCell id="D8IytL0E8ol-18z53MpY-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Charging Section&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="585" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="D8IytL0E8ol-18z53MpY-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Motor Driver Section&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D8IytL0E8ol-18z53MpY-20" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;PCB Design Section&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="585" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="D8IytL0E8ol-18z53MpY-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;SoC Section&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D8IytL0E8ol-18z53MpY-24" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Motor Driver Section&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="585" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="D8IytL0E8ol-18z53MpY-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;Interfacing Section&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D8IytL0E8ol-18z53MpY-26" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;SoC Section&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="585" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
